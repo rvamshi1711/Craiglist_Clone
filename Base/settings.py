@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'Craiglist',
         'USER': 'postgres',
         'PASSWORD': '1234',
-        'HOST':'localhost',
+        'HOST':'craiglist-clonee.herokuapp.com',
     }
 }
 
