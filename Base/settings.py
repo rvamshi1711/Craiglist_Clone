@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'c&ue^q$@ef7*39fad=ntr3b18+bj)314r3wv(_1y5&nux+p#4w'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['craiglist-clonee.herokuapp.com','127.0.0.1'] 
 
